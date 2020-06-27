@@ -209,7 +209,8 @@ p {
 }
 
 #contact .form input,
-#contact .form textarea {
+#contact .form textarea,
+#contact .form button {
   width: 100%;
   padding: 0.5rem;
 }
